@@ -41,4 +41,5 @@ public class PhoneContact implements Contact {
                 ", phone='" + phone + '\'' +
                 '}';
     }
+
 }

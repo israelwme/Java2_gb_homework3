@@ -40,4 +40,5 @@ public class Fruit {
     public int hashCode() {
         return Objects.hash(fruits);
     }
+
 }

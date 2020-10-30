@@ -3,4 +3,5 @@ public interface Contact {
     void setPhone(String phone);
     String getName();
     String getPhone();
+
 }
